@@ -1,2 +1,2 @@
 # info mai usor
- algoritmi pentru info accesati mai usor
+ algoritmi pentru info implementati mai usor
