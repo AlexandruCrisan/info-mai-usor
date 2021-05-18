@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621338972 source:a:\programming\info_lib\info_mai_usor.cpp
+	"info_mai_usor.h"
+	<algorithm>
+	<cmath>
+
+1621339094 a:\programming\info_lib\info_mai_usor.h
+
